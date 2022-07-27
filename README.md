@@ -13,7 +13,7 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunwoong"/></a>
+  <a href="https://solved.ac/sunwoong"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunwoong"/></a>
 </p>
 <!--
 **SunwoongH/SunwoongH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
