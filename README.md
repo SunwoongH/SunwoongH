@@ -1,8 +1,3 @@
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSunwoongH&count_bg=%23E8F3E9&title_bg=%2365EDA5&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/SunwoongH)
-  
-</div>
 <h3 align="center">Studying ✏</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>&nbsp
