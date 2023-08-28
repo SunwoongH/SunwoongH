@@ -1,7 +1,4 @@
-### Hwang Sunwoong
-
-<br>
-
+## Hwang Sunwoong
 #### ☃️ Study
 <a href="https://solved.ac/sunwoong"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunwoong"/></a>
 
