@@ -23,5 +23,3 @@
 어제의 날씨로 알아보는 오늘의 날씨 서비스 **숏웨더, Android Lead Developer** [✔️](https://github.com/TeamShortWeather/ShortWeather-AOS)
 
 이벤트를 통해 약속을 재밌게 만들어주는 약속 관리 서비스 **Baggle, Server Lead Developer** [✔️](https://github.com/dnd-side-project/dnd-9th-2-backend)
-
-<br>
